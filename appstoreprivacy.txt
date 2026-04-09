@@ -1,5 +1,5 @@
 Terms & Conditions
-These terms and conditions apply to the CHAD Wildlife©  app ("Application") created by MotivfTM Corporation ("Service Provider").
+These terms and conditions apply to the CHAD app ("Application") created by MotivfTM Corporation ("Service Provider").
 By downloading or using the Application, you agree to the following terms. It is strongly advised that you read and understand these terms prior to download. Unauthorized copying, modification of the Application or any part thereof, or any attempt to extract the source code, translate, or create derivative works is prohibited. All trademarks, copyrights, data rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 The Service Provider strives to keep the Application beneficial and efficient. The Service Provider reserves the right to modify the Application at any time.
 The Application stores and processes personal data provided by users to deliver the Service. Users are responsible for maintaining the security of their devices and access to the Application. Jailbreaking or rooting the device is discouraged, as it may compromise security and app functionality.
