@@ -1,6 +1,6 @@
 ﻿ACKNOWLEDGEMENTS
 Some map sources in this application are based on OpenStreetMap data, © OpenStreetMap contributors. 
-Map design and vector tile schema are based on OpenMapTiles (© OpenMapTiles). Vector tiles generated using Planetiler.
+Map design and vector tile schema are based on OpenMapTiles (© OpenMapTiles). Vector tiles generated using Planetiler. Aerial imagery courtesy of the U.S. Department of Agriculture (USDA) Farm Service Agency (NAIP).
 ________________
 
 
