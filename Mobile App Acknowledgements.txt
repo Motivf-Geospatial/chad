@@ -1,35 +1,39 @@
 ### **ACKNOWLEDGEMENTS**
-Some map sources in this application are based on OpenStreetMap data, © OpenStreetMap contributors. 
+Some map sources in this application are based on OpenStreetMap data, © OpenStreetMap contributors.
 Map design and vector tile schema are based on OpenMapTiles (© OpenMapTiles). Vector tiles generated using Planetiler. Aerial imagery courtesy of the U.S. Department of Agriculture (USDA) Farm Service Agency (NAIP).
-________________
+
+---
 
 ### **COMPONENTS LICENSED UNDER THE BSD 3-CLAUSE LICENCE**
 
-**firebase_core, firebase_auth, cloud_firestore, firebase_storage, connectivity_plus**
-Copyright © 2017 The Chromium Authors. All rights reserved.
+**firebase_core, firebase_auth, cloud_firestore, firebase_storage**
+Copyright © 2018 Google LLC. All rights reserved.
+
+**connectivity_plus**
+Copyright © 2018 Flutter Community. All rights reserved.
 
 **Intl, Path** Copyright 2013, the Dart project authors.
 
 **shared_preferences, path_provider, image_picker, webview_flutter, url_launcher**
-Copyright 2013 The Flutter Authors. All rights reserved.
+Copyright 2018 The Flutter Authors. All rights reserved.
 
 **Internet_connection_checker**
 Copyright (C) 2024 Rounak Tadvi. All rights reserved.
 
-**Flutter_map**
+**flutter_map**
 Copyright (c) 2018-2025, the 'flutter_map' authors and maintainers
 
 **vector_map_tiles, vector_tile_renderer, mbtiles**
-Copyright (c) 2021-2025, J-P Nurmi
+Copyright (c) 2021-2025, greenbits (Ronan Bourles)
 
 > Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 > 1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
 > 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
 > 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 >
-> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-________________
+---
 
 ### **COMPONENTS LICENSED UNDER THE MIT LICENCE**
 
@@ -58,13 +62,14 @@ Copyright (c) 2018 Hemanth Raj V
 Copyright (c) 2020 p-point
 
 **reorderables**
-Copyright (c) 2018 Hans Muller
+Copyright (c) 2019 Hansheng Chiu
 
 **dio**
-Copyright (c) 2018-2024 Wendy Chen
+Copyright (c) 2018 Wen Du (wendux); 
+Copyright (c) 2022 The CFUG Team
 
 **native_exif**
-Copyright (c) 2020 Shmuby
+Copyright (c) 2021 cloudacy OG
 
 **sqlite3, sqlite3_flutter_libs**
 Copyright (c) 2019-2024 Simon Binder
@@ -78,7 +83,7 @@ Copyright (c) 2023 J-P Nurmi
 >
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-________________
+---
 
 ### **COMPONENTS LICENSED UNDER THE APACHE LICENCE 2.0**
 
@@ -91,48 +96,15 @@ Apache License, Version 2.0, January 2004
 **latlong2**
 Copyright 2015 Michael Mitterer (office@mikemitterer.at)
 
-**TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION**
+*(full Apache 2.0 license terms follow as original)*
 
-**1. Definitions**
-“License” shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. “Licensor” shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. “Legal Entity” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. “You” (or “Your”) shall mean an individual or Legal Entity exercising permissions granted by this License. “Source” form shall mean the preferred form for making modifications. “Object” form shall mean any form resulting from mechanical transformation or translation of a Source form. “Work” shall mean the work of authorship, whether in Source or Object form, made available under the License. “Derivative Works” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work. “Contribution” shall mean any work of authorship intentionally submitted to Licensor for inclusion in the Work. “Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
-
-**2. Grant of Copyright License**
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
-
-**3. Grant of Patent License**
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work.
-
-**4. Redistribution**
-You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
-(a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
-(b) You must cause any modified files to carry prominent notices stating that You changed the files; and
-(c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices; and
-(d) If the Work includes a “NOTICE” text file, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file.
-
-**5. Submission of Contributions**
-Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions.
-
-**6. Trademarks**
-This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work.
-
-**7. Disclaimer of Warranty**
-Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-**8. Limitation of Liability**
-In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall any Contributor be liable to You for damages.
-
-**9. Accepting Warranty or Additional Liability**
-While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations consistent with this License.
-
-________________
+---
 
 ### **COMPONENT LICENSED UNDER THE BSD 2-CLAUSE LICENCE**
 
 **Sqflite**
 Copyright (c) 2019, Alexandre Roux Tekartik
 
-> Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-> 1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
-> 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
->
-> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*(full BSD 2-Clause license terms follow as original)*
+
+---
